@@ -1,1 +1,3 @@
 # Python_EEG_F11200469
+
+## Vamos a lanzarnos a MNE...
